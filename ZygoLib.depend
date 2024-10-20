@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1700125796 source:d:\cpp\zygolib\datfile.cpp
+	"include/libzygo/datfile.hpp"
+	<exception>
+	<cmath>
+
+1666772246 d:\cpp\zygolib\include\libzygo\datfile.hpp
+	<string>
+	<vector>
+	<fstream>
+	"interferogramdata.hpp"
+
+1700121555 d:\cpp\zygolib\include\libzygo\interferogramdata.hpp
+	<vector>
+	"datatypedefs.hpp"
+	"coord.hpp"
+
+1666770267 d:\cpp\zygolib\include\libzygo\datatypedefs.hpp
+	<vector>
+
+1666770540 d:\cpp\zygolib\include\libzygo\coord.hpp
+	<cmath>
+	<vector>
+
